@@ -1,0 +1,39 @@
+# Smart Calculator
+
+A command-line calculator built in Python that performs basic arithmetic operations and stores calculation history in a text file.
+
+## Features
+
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Modulus
+* Exponentiation
+* View calculation history
+* Clear history
+* Input validation
+* Division-by-zero handling
+
+## Technologies Used
+
+* Python
+* File Handling
+*Git
+*Github
+
+## How to Run
+
+1. Clone the repository.
+2. Run the Python file:
+
+   ```bash
+   python calculator.py
+   ```
+3. Follow the menu prompts.
+
+## Future Improvements
+
+* GUI version using Tkinter
+* Better history formatting
+* Support for more mathematical operations
